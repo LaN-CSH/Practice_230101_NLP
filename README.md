@@ -5,3 +5,5 @@ NLP 연습
 
 
 코드 실습 및 논문 정리
+
+https://github.com/nlp-with-transformers/notebooks

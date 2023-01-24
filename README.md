@@ -17,3 +17,5 @@ Task에 따라 Semantic Classification, Named Entity Recognition, Question Answe
 
 
 추천 시스템에서 쓰이는 NLP or OCR에 쓰이는 NLP or multimodal task를 위주로 생각해보자
+
+ACL, EMNLP 논문 많이 보기
